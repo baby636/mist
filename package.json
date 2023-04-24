@@ -105,6 +105,6 @@
     "semver-compare": "^1.0.0",
     "shelljs": "^0.8.2",
     "spectron": "3.8.0",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.5.0"
   }
 }
