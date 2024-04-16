@@ -44,9 +44,9 @@
     "fs-promise": "^2.0.0",
     "got": "^7.1.0",
     "i18next": "^8.4.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.17",
     "log-rotate": "^0.2.7",
-    "log4js": "^2.4.1",
+    "log4js": "^6.0.0",
     "lokijs": "^1.4.3",
     "minimongo-standalone": "^1.1.0-3",
     "node-fetch": "^1.7.3",
@@ -104,7 +104,7 @@
     "run-sequence": "^2.1.0",
     "semver-compare": "^1.0.0",
     "shelljs": "^0.8.2",
-    "spectron": "3.8.0",
+    "spectron": "11.1.0",
     "xml2js": "^0.4.17"
   }
 }
